@@ -2,6 +2,8 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=quentinreyn&count_private=true&show_icons=true&theme=radical)
 
+I'm a IT Student, passionated about Programming, Hacking, and Physics stuff.
+
 <!--
 **QuentinReyn/QuentinReyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
